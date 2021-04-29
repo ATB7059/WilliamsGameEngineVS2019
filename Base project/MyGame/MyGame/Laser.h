@@ -3,7 +3,6 @@
 #include "Engine/GameEngine.h"
 
 
-
 class Laser : public GameObject
 {
 public:
